@@ -25,6 +25,10 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Execute your created shortcut (You will not have to manually start the game)
 ## Q&A
 
+#### Why does my anti-virus say its a virus?
+
+The Patch can be mistakenly flagged as a virus or malware. This can happen because an anti-virus may think it behaves similarly to known threats.
+
 #### How does this Patch know who to kick?
 
 It kicks players that have previously been identified as cheaters.
