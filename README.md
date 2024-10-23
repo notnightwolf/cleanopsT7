@@ -15,7 +15,7 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Fixes FPS-Issues
 - Server-Browser
 - Report System
-- Some Quality of Life featues
+- Some Quality of Life features
 
 ## Installation
 
