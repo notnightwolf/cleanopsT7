@@ -23,6 +23,10 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Move the .exe into your Black Ops 3 directory (usually located in C:\Program Files (x86)\Steam\steamapps\common)
 - Create a shortcut on your dektop for easy access
 - Execute your created shortcut (You will not have to manually start the game)
+
+## Documentation
+View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on this repo's [Wiki Page](https://github.com/notnightwolf/cleanopsT7/wiki).
+
 ## Q&A
 
 #### Why does my anti-virus say its a virus?
