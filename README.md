@@ -14,8 +14,8 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Patches most known exploits
 - Disconnects previously identified cheaters
 - Fixes FPS-Issues
-- Server-Browser
-- Report System
+- [Server-Browser](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#servers---tab)
+- [Report System](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#user-icon)
 - Some Quality of Life features
 
 ## Installation
@@ -30,9 +30,9 @@ View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on thi
 
 ## Q&A
 
-#### Why does my anti-virus say its a virus?
+#### Why does my antivirus flag this as a potential threat?
 
-The Patch can be mistakenly flagged as a virus or malware. This can happen because an anti-virus may think it behaves similarly to known threats.
+The Patch might be mistakenly flagged due to how cleanopsT7.exe creates its folder structure and injects the DLL into the game. These methods, while safe here, have been used maliciously before, which can trigger your antivirus. Rest assured, no harmful actions are taken; it’s simply a protective false alarm.
 
 #### How does this Patch know who to kick?
 
