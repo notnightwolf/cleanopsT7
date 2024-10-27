@@ -10,6 +10,7 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 
 ## Features
 
+- IP-Spoofing
 - Patches most known exploits
 - Disconnects previously identified cheaters
 - Fixes FPS-Issues
