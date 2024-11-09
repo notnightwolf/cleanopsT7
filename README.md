@@ -52,3 +52,4 @@ This Patch also kicks previously identified cheaters, it is mainly intended to b
 ## Credits
 - shiversoftdev -> t7patch | arxan evasion
 - WNTD -> godness
+- Scropts -> block client license check
