@@ -16,7 +16,7 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Fixes FPS-Issues
 - [Server-Browser](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#servers---tab)
 - [Report System](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#user-icon)
-- Some Quality of Life features
+- Some Quality of Life features - ["Tools" Tab](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#tools---tab)
 
 ## Installation
 
