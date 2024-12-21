@@ -21,7 +21,7 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 ## Installation
 
 - Download the cleanopsT7.exe from the [releases](https://github.com/notnightwolf/cleanopsT7/releases) tab
-- Move the .exe into your Black Ops 3 directory (usually located in C:\Program Files (x86)\Steam\steamapps\common)
+- Move the .exe into your Black Ops 3 directory (usually located in C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III)
 - Create a shortcut on your dektop for easy access
 - Execute your created shortcut (You will not have to manually start the game)
 
@@ -32,7 +32,7 @@ View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on thi
 
 #### Why does my antivirus flag this as a potential threat?
 
-The Patch might be mistakenly flagged due to how cleanopsT7.exe creates its folder structure and injects the DLL into the game. These methods, while safe here, have been used maliciously before, which can trigger your antivirus. Rest assured, no harmful actions are taken; it’s simply a protective false alarm.
+The Patch may be mistakenly flagged because cleanopsT7.exe creates its folder structure and injects the DLL into the game, or due to the obfuscation of cleanops.dll, which is necessary to protect our intellectual property and prevent the code from being used maliciously. These methods, while safe here, have been used maliciously before, which can trigger your antivirus. Rest assured, no harmful actions are taken; it’s simply a protective false alarm.
 
 #### How does this Patch know who to kick?
 
