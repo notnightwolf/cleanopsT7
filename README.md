@@ -25,6 +25,8 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Create a shortcut on your dektop for easy access
 - Execute your created shortcut (You will not have to manually start the game)
 
+Installation Guide: <sub>_Click Image for YouTube Redirect_</sub> [![Cleanops Installation Guide](https://github.com/user-attachments/assets/1eeb3bdc-c737-41b7-98b3-e54442aba9c1)](https://www.youtube.com/watch?v=HG48sOwyCQk)
+
 ## Documentation
 View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on this repo's [Wiki Page](https://github.com/notnightwolf/cleanopsT7/wiki).
 
