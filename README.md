@@ -10,10 +10,10 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 
 ## Features
 
-- IP-Spoofing
-- Patches most known exploits
-- Disconnects previously identified cheaters
-- Fixes FPS-Issues
+- [IP-Spoofing](https://github.com/notnightwolf/cleanopsT7/wiki/General-and-Technical-Information#ip-spoofing)
+- [Patches most known exploits](https://github.com/notnightwolf/cleanopsT7/wiki/General-and-Technical-Information#exploit-patching)
+- [Disconnects previously identified cheaters](https://github.com/notnightwolf/cleanopsT7/wiki/General-and-Technical-Information#automatic-cheater-removal)
+- [Fixes FPS-Issues](https://github.com/notnightwolf/cleanopsT7/wiki/General-and-Technical-Information#performance-fixes)
 - [Server-Browser](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#servers---tab)
 - [Report System](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#user-icon)
 - Some Quality of Life features - ["Tools" Tab](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#tools---tab)
