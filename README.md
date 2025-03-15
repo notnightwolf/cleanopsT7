@@ -52,6 +52,6 @@ You can report a player directly from the Patch-UI, it'd appreciated if you also
 
 This Patch also kicks previously identified cheaters, it is mainly intended to be used in Multiplayer games.
 ## Credits
-- shiversoftdev -> t7patch | arxan evasion
-- WNTD -> godness
-- Scropts -> block client license check
+- shiversoftdev
+- WNTD
+- Scropts
