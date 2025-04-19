@@ -30,27 +30,10 @@ Installation Guide: <sub>_Click Image for YouTube Redirect_</sub> [![Cleanops In
 ## Documentation
 View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on this repo's [Wiki Page](https://github.com/notnightwolf/cleanopsT7/wiki).
 
-## Q&A
+## FAQ
 
-#### Why does my antivirus flag this as a potential threat?
+Find answers to common questions and solutions for issues related to the Clean Ops T7 patch on our GitHub Wiki's [FAQ](https://github.com/notnightwolf/cleanopsT7/wiki/Frequently-Asked-Questions)
 
-The Patch may be mistakenly flagged because cleanopsT7.exe creates its folder structure and injects the DLL into the game, or due to the obfuscation of cleanops.dll, which is necessary to protect our intellectual property and prevent the code from being used maliciously. These methods, while safe here, have been used maliciously before, which can trigger your antivirus. Rest assured, no harmful actions are taken; it’s simply a protective false alarm.
-
-#### How does this Patch know who to kick?
-
-It kicks players that have previously been identified as cheaters.
-
-#### How are cheaters determined.
-
-It's usually easy to spot cheaters ingame, these are manually being added to a Database.
-
-#### How do I report a cheater?
-
-You can report a player directly from the Patch-UI, it'd appreciated if you also send a video in our Discord Server at #report-a-user.
-
-#### How is this Patch different then the t7patch by serious?
-
-This Patch also kicks previously identified cheaters, it is mainly intended to be used in Multiplayer games.
 ## Credits
 - shiversoftdev
 - WNTD
