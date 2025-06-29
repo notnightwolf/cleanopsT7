@@ -25,6 +25,8 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 - Create a shortcut on your dektop for easy access
 - Execute your created shortcut (You will not have to manually start the game)
 
+<sub>_Or check out this Steam Deck / Linux [video tutorial](https://www.youtube.com/watch?v=LtUcvN4VR-0_) from Mr. Something_</sub>
+
 Installation Guide: <sub>_Click Image for YouTube Redirect_</sub> [![Cleanops Installation Guide](https://github.com/user-attachments/assets/1eeb3bdc-c737-41b7-98b3-e54442aba9c1)](https://www.youtube.com/watch?v=HG48sOwyCQk)
 
 ## Documentation
