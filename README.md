@@ -6,6 +6,8 @@ This patch ensures that any previously identified cheaters are automatically rem
 
 This Patch also fixes most known Exploits and also includes a few bugfixes.
 
+Please be aware that Clean Ops T7 is not an open source tool.
+
 Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more information!
 
 ## Features
