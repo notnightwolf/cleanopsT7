@@ -22,15 +22,22 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 
 ## Installation
 
+### Windows
 - Download the `cleanopsT7_updater.exe` from the [releases](https://github.com/notnightwolf/cleanopsT7/releases) tab
 - Move the .exe into your Black Ops 3 directory (usually located in C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III)
 - Create a shortcut on your dektop for easy access
 - Execute your created shortcut
 - Run your Game as usual after the updater has closed
 
-<sub>New Linux guide will follow</sub> ~<sub>_Or check out this Steam Deck / Linux [video tutorial](https://www.youtube.com/watch?v=LtUcvN4VR-0_) from Mr. Something_</sub>~
-
 Installation Guide: <sub>_Click Image for YouTube Redirect_</sub> [![Cleanops Installation Guide](https://github.com/user-attachments/assets/1eeb3bdc-c737-41b7-98b3-e54442aba9c1)](https://www.youtube.com/watch?v=HG48sOwyCQk)
+
+### Linux
+- Download the `cleanopsT7_updater.exe` from the [releases](https://github.com/notnightwolf/cleanopsT7/releases) tab
+- Move the .exe into your Black Ops 3 directory
+- Add the `cleanopsT7_updater.exe` as a non-steam Game
+- Enable the Compatibility-Mode and use Proton
+- Run the `cleanopsT7_updater.exe` once
+- Run your Game as usual after the updater has closed
 
 ## Uninstallation
 
