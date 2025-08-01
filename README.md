@@ -32,6 +32,13 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 
 Installation Guide: <sub>_Click Image for YouTube Redirect_</sub> [![Cleanops Installation Guide](https://github.com/user-attachments/assets/1eeb3bdc-c737-41b7-98b3-e54442aba9c1)](https://www.youtube.com/watch?v=HG48sOwyCQk)
 
+## Uninstallation
+
+To disable Clean Ops T7 or remove its core files:
+
+-   **Manual Removal:** While Call of Duty: Black Ops 3 is **not** running, navigate to your game's root directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III`) and delete the `d3d11.dll` file.
+-   **Via the Clean Ops In-Game UI:** If the `cleanopsT7_updater.exe` is still in your game directory, launch Black Ops 3, open the Clean Ops UI, go to [`Settings -> System`](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#system), and click the "Delete Clean Ops" button.
+
 ## Documentation
 View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on this repo's [Wiki Page](https://github.com/notnightwolf/cleanopsT7/wiki).
 
