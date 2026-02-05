@@ -22,18 +22,24 @@ Join our [Discord](https://discord.gg/3hR2ffzhfV) for support and more informati
 
 ## Windows & Linux Installation
 
-- Download the `d3d11.dll` from [here](https://raw.githubusercontent.com/notnightwolf/cleanopsT7/main/d3d11.dll).
-- Move the `d3d11.dll` into your **Black Ops 3 directory**. *(Tip: Right-click the game in Steam > Manage > Browse local files)*
+- Download the `d3d11.dll` [here](https://raw.githubusercontent.com/notnightwolf/cleanopsT7/main/d3d11.dll).
+- Move the `d3d11.dll` into your Black Ops 3 directory (usually located in `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III)`.
+  
+  <sub>Tip: Right-click the game in Steam > Manage > Browse local files.</sub>
 - Launch the game through **Steam** as you normally would.
 
   - **Linux Note:** If Clean Ops doesn't load, set your Steam Launch Options to: 
   `WINEDLLOVERRIDES="d3d11=n,b" %command%`.
+
+  Watch our quick video guide here: <sub>_Click Image for YouTube Redirect_</sub> [![1770315937961~2(1)](https://github.com/user-attachments/assets/582de237-01fe-42ce-a95d-e417e3debbb3)](https://youtu.be/OsUntxCPDSo)
 
 ## Uninstallation & Disabling
 
 If you need to disable Clean Ops or remove it entirely:
 
 -  **Temporary Disable (Vanilla Mode):** Hold the **Shift** key immediately after launching the game through Steam. Continue holding it until a popup appears; Clean Ops will not load for that session.
+
+-   **Via the Clean Ops In-Game UI:** Launch Black Ops 3, open the Clean Ops UI, go to [`Settings -> System`](https://github.com/notnightwolf/cleanopsT7/wiki/Full-Explanation-of-the-Ingame-User-Interface#system), and click the "Delete Clean Ops" button.
 
 -  **Manual Removal:** While Call of Duty: Black Ops 3 is **not** running, navigate to your game's root directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\Call of Duty Black Ops III`) and delete the `d3d11.dll` file.
 
