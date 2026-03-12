@@ -54,6 +54,7 @@ View the full documentation _(Work in Progress)_ for the cleanopsT7 Patch on thi
 Find answers to common questions and solutions for issues related to the Clean Ops T7 patch on our GitHub Wiki's [FAQ](https://github.com/notnightwolf/cleanopsT7/wiki/Frequently-Asked-Questions)
 
 ## Credits
+- boat
 - shiversoftdev
 - WNTD
 - Scropts
